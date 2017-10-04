@@ -1,4 +1,4 @@
-FROM golang:1.8
+FROM golang:1.9
 
 ADD instantclient-basic-linux.x64-12.1.0.2.0.zip /tmp/
 ADD instantclient-sdk-linux.x64-12.1.0.2.0.zip /tmp/
