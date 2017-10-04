@@ -1,4 +1,4 @@
-# GOLANG:1.8 with Oracle and ClickHouse DB drivers
+# GOLANG:1.9 with Oracle and ClickHouse DB drivers
 
 
 ## Pakages
